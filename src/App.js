@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  // ambiente developmente
+  // ambiente produccion
   return (
     <div className="App">
       <header className="App-header">
