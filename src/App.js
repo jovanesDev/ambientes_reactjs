@@ -2,10 +2,10 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  // ambiente produccion
+  // ambiente QA
   return (
     <div className="App">
-      <h1>Produccion</h1>
+      <h1>QA</h1>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
